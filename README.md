@@ -1,4 +1,4 @@
-# HW2---Convolutional-Neural-Network
+# HW2-Convolutional-Neural-Network
 
 This repository contains a Jupyter Notebook for a homework assignment focused on implementing and analyzing Convolutional Neural Networks (CNNs). The notebook includes Python code, data preprocessing steps, model training, and evaluation metrics for understanding the performance of CNNs.
 
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 2. Open the Jupyter Notebook:
 
    ```bash
-   jupyter notebook HW2_CNN_40211403001.ipynb
+   jupyter notebook HW2_CNN.ipynb
    ```
 
 3. Follow the instructions within the notebook to execute each cell sequentially.

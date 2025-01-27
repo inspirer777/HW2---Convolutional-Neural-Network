@@ -1,0 +1,8 @@
+Jupyter Notebook
+pandas
+TensorFlow
+Keras
+PyTorch
+NumPy
+Matplotlib
+scikit-learn
